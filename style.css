@@ -1,0 +1,17 @@
+#box {
+    border: 10px solid green;
+    background-color: grey;
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#inputbox {
+    width: 200px;
+    margin: auto;
+}
+
+p{
+    text-align: center;
+}
